@@ -1,1 +1,1 @@
-## I tried to go through all the ScRNASeq data analysis steps using scanpy. I used one sample from GSE208652. I did the analysis with almost default parameters without any specific biological questions to be answered.
+ I conducted an end-to-end scRNA-seq analysis using Scanpy on a sample from GSE208652. The workflow was executed with mostly default parameters, and I did not target any specific biological questions during the analysis.
