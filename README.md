@@ -1,1 +1,1 @@
-# I tried to go through all the ScRNASeq data analysis steps using scanpy. I used one sample from GSE208652. I did the analysis with almost default parameters without any specific biological questions to be answered.
+## I tried to go through all the ScRNASeq data analysis steps using scanpy. I used one sample from GSE208652. I did the analysis with almost default parameters without any specific biological questions to be answered.
