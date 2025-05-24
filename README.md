@@ -1,1 +1,1 @@
- I conducted an end-to-end scRNA-seq analysis using Scanpy on a sample from GSE208652. The workflow was executed with mostly default parameters, and I did not target any specific biological questions during the analysis.
+I conducted an end-to-end scRNA-seq analysis using Scanpy on a sample from GSE208652. The workflow was executed with mostly default parameters, and I did not target any specific biological questions during the analysis.
